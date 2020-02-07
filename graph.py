@@ -2,6 +2,7 @@
 
 # code to plot time spent every day from data exported by forest app
 # TODO: cleanup... oh dear.
+# 	remove failed attempts from list
 
 # instructions: export your .csv from app, run
 
